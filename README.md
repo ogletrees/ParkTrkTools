@@ -11,6 +11,6 @@ The functions inside are:
 
 **tract_sample** - gets a weighted sample from census tract Age-Sex-Race table
 
-**tract_ed** - using the weighted sample from above, gets educational attainment
+**tract_ed** - gets educational attainment for a census tract GEOID
 
-**tract_inc** - using the weighted sample from above, gets household income
+**tract_inc** - gets household income for a census tract GEOID
