@@ -1,0 +1,10 @@
+Package: projpkg
+Title: Project Functions for Park Research
+Version: 0.0.0.9000
+Authors@R: person("Scott", "Ogletree", email = "sogletr@g.clemson.edu", role = c("aut", "cre"))
+Description: Functions for getting user demographics from census data when all you have is a GEOID.
+Depends: R (>= 3.5.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
